@@ -685,6 +685,32 @@
             ],
             "sign": ""
         }
+        {
+            "id": "63",
+            "content": [
+                "「小凶」九十九弁弁",
+                "大弦嘈嘈如骤雨，凶雷迅风至重霄。",
+                "莫怨道具一朝反，旧主弃时亦无情。",
+            ],
+            "sign": ""
+        }
+        {
+            "id": "64",
+            "content": [
+                "「大凶」蓬莱山辉夜
+                " 昔有南山竹取翁，伐竹却见一幼婴。",
+                " 领养七日能人言，自号嫩竹辉夜姬。",
+                " 二八少女初长成，貌若天仙动平京。",
+                " 贵胄皇子争做胥，五道难题验真心。",
+                " 佛陀石钵蓬莱枝，火鼠龙玉安产贝。",
+                " 少女本是月上姬，误食仙药下凡尘。",
+                " 迷途竹林人罕至，永远亭中渡千载。",
+                " 夜夜因幡捣药时，少女抬头还望月。",
+                " 不知乘月几人归，落月摇情满江树。",
+                
+            ],
+            "sign": ""
+        }
     ],
     "repo": "https://github.com/Dawnzed/Touhou-Fortune-slip",
     "source": "https://raw.githubusercontent.com/Dawnzed/Touhou-Fortune-slip/main/Touhou_Fourtune_Slips.json"
